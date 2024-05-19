@@ -1,0 +1,32 @@
+{
+"student": {
+    "name" : "Iryna",
+    "surname" : "Zhuravel",
+    "age" : 29, 
+    "height" : 1.75,
+    "married" : "Married"
+},
+
+"husband": {
+    "name" : "Vladyslav",
+    "age" : 29,
+    "height" : 1.86
+},
+"children" : "No children", 
+"pets" : {
+    "animal" : "dog",
+    "breed" : "pug",
+    "name": "Basya",
+    "age": 5
+}, 
+"bio" : {
+    "born" : "Dnipro, Ukraine", 
+    "live" : "Gdansk, Polan"
+},
+"family" : {
+    "father" : "Dmitry", 
+    "mother" : "Oksana",
+    "sister" : "Marharyta"
+}
+}
+        

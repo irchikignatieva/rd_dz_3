@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studentInfo>
+<student>
+    <name>Iryna</name>
+    <surname>Zhuravel</surname>
+    <age>29</age>
+    <height>1.75</height>
+    <married>Married</married>
+</student>
+<husband>
+    <name>Vladyslav</name>
+    <age>29</age>
+    <height>1.86</height>
+</husband>
+<children>No children</children>
+<pets> 
+    <animal>dog</animal>
+    <breed>pug</breed>
+    <name>Basya</name>
+    <age>5</age>
+</pets> 
+<bio>
+    <born>Dnipro, Ukraine</born>
+    <live>Gdansk, Poland</live>
+</bio>
+<family>
+    <father>Dmitry</father>
+    <mother>Oksana</mother>
+    <sister>Marharyta</sister>
+</family>
+</studentInfo>
+        
